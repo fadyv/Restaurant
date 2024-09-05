@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Fredoka-Bold';
+    src: url('../fonts/Fredoka-Bold.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Fredoka-SemiBold';
+    src: url('../fonts/Fredoka-SemiBold.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Fredoka-Light';
+    src: url('../fonts/Fredoka-Light.ttf') format('opentype');
+}
+
+
+@font-face {
+    font-family: 'Fredoka-Medium';
+    src: url('../fonts/Fredoka-Medium.ttf') format('opentype');
+}
+
+
+@font-face {
+    font-family: 'Fredoka-Regular';
+    src: url('../fonts/Fredoka-Regular.ttf') format('opentype');
+}
+
+
+
+
