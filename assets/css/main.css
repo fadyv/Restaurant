@@ -553,6 +553,9 @@ nav a ,nav span {
     background-size: cover;
     background-position: center center;
     height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+     
  }
 
  .icon-1{
